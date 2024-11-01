@@ -1,0 +1,20 @@
+#root {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+*,
+html,
+body {
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-synthesis: none;
+  color: #fff;
+}
+body {
+  background: -webkit-linear-gradient(to right, #202c38, #2a4455);
+  background: linear-gradient(to right, #202c38, #2a4455);
+}
